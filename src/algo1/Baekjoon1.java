@@ -2,7 +2,7 @@ package algo1;
 
 import java.util.Scanner;
 
-public class baekjoon1 {
+public class Baekjoon1 {
 
 
     public static void main(String[] args) {
